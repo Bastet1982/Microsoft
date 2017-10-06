@@ -1,0 +1,54 @@
+body{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+.cuadrado-color{
+	/*background-color: grey; colores en inglés*/
+	/*background-color: #151515 color hexadecimal*/
+	background-color: rgb(0,0,0); /*colores rgb */
+	padding-bottom: 20px; /*para dar espacio*/
+	
+}
+p{ /*parrafo en general de la página cambia el color a todas los parrafos en ella*/
+ 
+   color: #85929E;
+
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+/*img{
+	width: 400px; ancho de imagen
+	heigth: 400px; alto de imagen 
+}
+*/
+
+/*cambiando tamaño de 1 foto*/
+
+.logo{
+	width: 400px;
+    height: : 400px;
+}
+
+/*hacer el separador*/
+.enlaces{
+	border-top: 1px  dashed black; /*buscar bordes css*/
+
+}
+
+
+
+      
+
+/*Hola soy un comentario
+
+/*alinear los elementos de la página 
+text-align sirve tanto par alinear tanto los textos e
+imágenes*/
